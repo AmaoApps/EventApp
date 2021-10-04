@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EventApp</string>
+
+    <!-- BOTTOM NAVIGATION -->
+    <string name="BOTTOM_NAV_HOME">Inicio</string>
+    <string name="BOTTOM_NAV_SEARCH">Busqueda</string>
+    <string name="BOTTOM_NAV_PROFILE">Perfil</string>
+
+
+    <!-- HOME SCREEN -->
+    <string name="HOME_SCREEN_TITLE">Pantalla Inicio</string>
+
+
+    <!-- SEARCH SCREEN -->
+    <string name="SEARCH_SCREEN_TITLE">Pantalla Busqueda</string>
+
+
+    <!-- PROFILE SCREEN -->
+    <string name="PROFILE_SCREEN_TITLE">Pantalla Perfil</string>
+
+
+</resources>
